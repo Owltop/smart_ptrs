@@ -192,3 +192,4 @@ public:
     BaseBlock* block;
     T* real_object;
 };
+

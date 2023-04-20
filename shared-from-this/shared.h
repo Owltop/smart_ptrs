@@ -405,3 +405,4 @@ public:
 
     WeakPtr<T> weak_this;
 };
+
